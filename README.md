@@ -4,7 +4,7 @@
 
 Welcome to my GitHub,
 -  :milky_way: I just finished an internship with Accenture creating Data & AI solutions for industry-leaders across several Canadian industries
--  :medal_sports: I have plenty of Data Engineering and Software Engineering Experience from past projects and hackathons
+-  :medal_sports: I have lots of Data Science and Software Engineering Experience from past projects and hackathons
 -  :dvd: I'm looking to continue learning more in the realms of engineering and data science 
 -  :guitar: I am personally interested in music tech and integrating technology into public infrastructure
    
