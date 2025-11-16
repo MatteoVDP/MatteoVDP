@@ -1,6 +1,6 @@
 ## :earth_americas: Hey, I'm Matteo! 
 
-### Computer Engineering Student @ Queen's University
+### 5th Year Computer Engineering Student @ Queen's University
 
 Welcome to my GitHub,
 -  :milky_way: I have recently completed work terms with Accenture creating Data & AI solutions for industry-leaders in Canada, and at Canadian Tire optimizing store layouts using Data and AI
